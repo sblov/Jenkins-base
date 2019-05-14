@@ -44,13 +44,13 @@
 >
 > |------Jenkins
 >
-> ​	|-----主程序
+> ====|-----主程序
 >
-> ​	|-----SVN插件
+> ====|-----SVN插件
 >
-> ​	|-----Maven插件
+> ====|-----Maven插件
 >
-> ​	|-----Deploy to Web Container 插件
+> ====|-----Deploy to Web Container 插件
 >
 > **应用发布系统**
 >
